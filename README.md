@@ -212,7 +212,7 @@ public String getStatus () {
 ```bash
 for (int i=0; i<pegawai.length; i++) {
   ...
-for(KepegawaianDetail data : pegawai) {
+for (KepegawaianDetail data : pegawai) {
 }
 ```
 
